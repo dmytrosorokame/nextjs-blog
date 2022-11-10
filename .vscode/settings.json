@@ -1,0 +1,9 @@
+{
+  "window.zoomLevel": 2,
+  "emmet.preferences": {
+  
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+ }
+}
